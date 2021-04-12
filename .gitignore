@@ -1,3 +1,10 @@
+
+node_modules
+.vscode
+.DS_Store 
+
+
+# below added from auto input on github auto gitignore pages
 # Logs
 logs
 *.log
